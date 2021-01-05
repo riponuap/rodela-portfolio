@@ -30,7 +30,7 @@ section {
 }
 .social-media {
   text-decoration: none;
-  background-color: linear-gradient(red, yellow);
+  background-image: linear-gradient (red yellow green);
   padding: 1%;
   border-radius: 20%;
 }
@@ -54,4 +54,8 @@ section {
   background-image: url(12.png);
   background-position: left;
   height: 500px;
+}
+
+.hire {
+  float: left;
 }
