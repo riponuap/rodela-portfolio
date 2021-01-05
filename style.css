@@ -30,17 +30,28 @@ section {
 }
 .social-media {
   text-decoration: none;
-  background-color: aliceblue;
+  background-color: linear-gradient(red, yellow);
   padding: 1%;
   border-radius: 20%;
 }
 
-#father-intro {
-  text-align: 100%;
+.father-intro-2 {
+  box-shadow: 10px 10px 40px rgb(100, 3, 3);
+  border-radius: 50px;
+  padding: 5%;
 }
 
 .second-section {
-  background-image: url(image 18.png);
+  background-image: url(latest-work-bg.png);
   background-repeat: no-repeat;
+  background-position: center;
+}
+#father-intro {
+  height: 10%;
+}
+
+.Thired-section {
+  background-image: url(12.png);
+  background-position: left;
   height: 500px;
 }
