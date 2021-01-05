@@ -34,3 +34,13 @@ section {
   padding: 1%;
   border-radius: 20%;
 }
+
+#father-intro {
+  text-align: 100%;
+}
+
+.second-section {
+  background-image: url(image 18.png);
+  background-repeat: no-repeat;
+  height: 500px;
+}
